@@ -1,4 +1,4 @@
-step:1 clone the repo from here :- 
+step:1 clone the repo from here :- https://github.com/vinay7722/Task-Navadhiti.git 
 step:2 npm install
 step:3 npm start
 
